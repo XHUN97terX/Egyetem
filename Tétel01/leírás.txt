@@ -1,0 +1,4 @@
+Beugró:
+    -LZW BinFa mélymásoló konstruktor
+Fõtéma:
+    -Típusok és deklarációk (90-113)

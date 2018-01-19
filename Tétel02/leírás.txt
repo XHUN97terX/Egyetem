@@ -1,0 +1,4 @@
+Beugró:
+    -másoló értékadás/konstruktor vs mozgató értékadás/konstruktor
+Fõtéma:
+    -Mutatók, tömbök, struktúrák (115-139)

@@ -1,0 +1,4 @@
+Beugró:
+    -STL map (std::map<>) érték szerinti rendezése
+Fõtéma:
+    -Származtatott osztályok (395-427)

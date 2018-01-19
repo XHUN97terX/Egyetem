@@ -1,0 +1,4 @@
+Beugró:
+    -Dinamikus memóriakezelésû program elemzése (split, valgrind)
+Fõtéma:
+    -Kivételkezelés (467-509)
